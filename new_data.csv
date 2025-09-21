@@ -1,0 +1,7 @@
+Order ID,Order Date,Ship Date,Ship Days,Ship Mode,Customer ID,Customer Name,Customer Type,City,State,Country,Product Type,Product,Product Name,Sales,Quantity,Discount,Profit,Shipping Cost
+IN-2014-112391,3/15/2014,3/18/2014,3,Second Class,AK-20315,Amit Khanna,Consumer,Mumbai,Maharashtra,India,Technology,Phones,"Samsung Galaxy S5, 16GB",35499.00,2,0.1,4200.50,450.00
+IN-2014-182765,7/22/2014,7/23/2014,1,First Class,RS-19877,Ritu Sharma,Home Office,Bengaluru,Karnataka,India,Furniture,Chairs,"Godrej Executive Leather Chair, Black",15249.50,1,0,2450.00,220.75
+IN-2015-289471,9/3/2015,9/6/2015,3,Standard Class,VP-14532,Vikram Patel,Corporate,Ahmedabad,Gujarat,India,Technology,Accessories,"HP Wireless Mouse & Keyboard Combo",2899.00,3,0.05,380.00,120.00
+IN-2015-349781,12/19/2015,12/20/2015,1,Same Day,SK-19401,Sunita Kulkarni,Consumer,Pune,Maharashtra,India,Office Supplies,Paper,"JK Copier A4 Paper, 75 GSM",699.00,5,0,175.00,60.00
+IN-2016-415927,5/10/2016,5/13/2016,3,Second Class,AM-17654,Anil Mehta,Corporate,Delhi,Delhi,India,Technology,Copiers,"Canon Laser Multifunction Printer",25499.00,1,0.1,3250.00,550.00
+IN-2016-527189,8/25/2016,8/27/2016,2,First Class,NS-20893,Neha Singh,Consumer,Kolkata,West Bengal,India,Furniture,Tables,"Nilkamal Wooden Study Table",11249.00,2,0.05,1400.00,300.00
